@@ -1,16 +1,21 @@
-### Hi there 👋
+# CySdC
+*Prof: Fabrizio Carlassara*
 
-<!--
-**LuceroSoledas/LuceroSoledas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Alumna: Lucero Ordoñez
 
-Here are some ideas to get you started:
+* Edad: 17 años
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Cumplo el 5 de Abril
+
+* Estudio en la E.E.S.T.N°7 "TRQ"
+
+> Aviónica
+
+## Gustos
+
+***Me gusta cantar y tocar el piano***
+
+* _Me gustaría estudiar: Ingeniería en sistemas_
+
+## Contactos:
+* _Mail: lucerosoledad56@gmail.com_
